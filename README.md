@@ -1,8 +1,5 @@
 # Creating-a-Project-for-forecasting-using-ARIMA-model-in-Python
 
-
-# EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
-### Date: 
 # Name : Moenish Baalan G
 # Reg No : 212223220057
 
